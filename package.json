@@ -1,0 +1,29 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miaoleihaha/studyNode.git"
+  },
+  "keywords": [
+    "study",
+    "node"
+  ],
+  "author": "miaolei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miaoleihaha/studyNode/issues"
+  },
+  "homepage": "https://github.com/miaoleihaha/studyNode#readme",
+  "dependencies": {
+    "loadsh": "^0.0.4"
+  },
+  "devDependencies": {
+    "md5": "^2.3.0"
+  }
+}
